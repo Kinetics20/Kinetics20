@@ -20,7 +20,9 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 ---
 
 ### 📈 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kinetics20&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kinetics20)](https://git.io/streak-stats)
+
 
 
 ---
