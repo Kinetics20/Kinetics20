@@ -24,23 +24,10 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/piotr-lipi%C5%84ski-6052a4140/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-lipi%C5%84ski-6052a4140/)
 
-<br>
-
-<a href="https://www.codewars.com/users/piotrlipinski" target="_blank">
-    <img src="https://www.codewars.com/users/piotrlipinski/badges/large" alt="Codewars">
-</a>
+[![Codewars](https://www.codewars.com/users/piotrlipinski/badges/large)](https://www.codewars.com/users/piotrlipinski)
 
 ---
 
 Thanks for visiting my profile! 😊
-
-
-
-
-
-
-
