@@ -12,6 +12,8 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Mypy](https://img.shields.io/badge/Mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](http://mypy-lang.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A8E00?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Poetry](https://img.shields.io/badge/Poetry-000000?style=for-the-badge&logo=poetry&logoColor=white)](https://python-poetry.org/)
+[![Venv](https://img.shields.io/badge/Venv-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/venv.html)
 
 #### 🖥️ Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
