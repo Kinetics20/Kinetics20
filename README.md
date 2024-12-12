@@ -10,6 +10,8 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Mypy](https://img.shields.io/badge/Mypy-000000?style=for-the-badge&logo=mypy&logoColor=white)](http://mypy-lang.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A8E00?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
 
 #### 🖥️ Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
