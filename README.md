@@ -26,6 +26,10 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 [![PyCharm](https://img.shields.io/badge/PyCharm-2024.3.1.1-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-1.77.3-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+#### 📄 Documentation Tools
+
+[![Obsidian](https://img.shields.io/badge/Obsidian-1.7.7-483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
+
 ---
 
 #### 🌐 Connect with me
