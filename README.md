@@ -36,7 +36,7 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 ---
 
 #### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2025-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-lipi%C5%84ski-6052a4140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2025-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-lipinski-pl/)
 
 [![Codewars](https://www.codewars.com/users/piotrlipinski/badges/small)](https://www.codewars.com/users/piotrlipinski)
 
