@@ -7,14 +7,11 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 ### 🧰 Technologies & Tools
 
 #### Programming Languages & Libraries
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.3.2-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Mypy](https://img.shields.io/badge/Mypy-1.14.1-000000?logo=mypy&logoColor=white)](http://mypy-lang.org/)
-[![Pytest](https://img.shields.io/badge/Pytest-8.3.4-0A8E00?logo=pytest&logoColor=white)](https://pytest.org/)
-[![UV](https://img.shields.io/badge/UV-0.5.28-8E44AD?logo=astral&logoColor=white)](https://docs.astral.sh/uv/)
-[![Poetry](https://img.shields.io/badge/Poetry-1.9.0-000000?logo=poetry&logoColor=white)](https://python-poetry.org/)
-[![Venv](https://img.shields.io/badge/Venv-3.12-4B8BBE?logo=python&logoColor=white)](https://docs.python.org/3/library/venv.html)
+  
+[![Python](https://img.shields.io/badge/Python-3.13.2-blue?logo=python&logoColor=white)](https://www.python.org/)
+
+[![Flask](https://img.shields.io/badge/Flask-2.3.2-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![Mypy](https://img.shields.io/badge/Mypy-1.14.1-000000?logo=mypy&logoColor=white)](http://mypy-lang.org/) [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Poetry](https://img.shields.io/badge/Poetry-1.9.0-000000?logo=poetry&logoColor=white)](https://python-poetry.org/) [![Pytest](https://img.shields.io/badge/Pytest-8.3.4-0A8E00?logo=pytest&logoColor=white)](https://pytest.org/) [![UV](https://img.shields.io/badge/UV-0.5.28-8E44AD?logo=astral&logoColor=white)](https://docs.astral.sh/uv/) [![Venv](https://img.shields.io/badge/Venv-3.13.2-4B8BBE?logo=python&logoColor=white)](https://docs.python.org/3/library/venv.html)
+
  
 
 
