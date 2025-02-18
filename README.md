@@ -22,6 +22,8 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2024.1-557C8A?logo=kali&logoColor=white)](https://www.kali.org/)
 [![VMware 17](https://img.shields.io/badge/VMware%2017-17.0-607078?logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![Docker](https://img.shields.io/badge/Docker-24.0.5-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Portainer](https://img.shields.io/badge/Portainer-2.26.1-3498db?logo=portainer&logoColor=white)](https://www.portainer.io/)
+
 
 #### 🛠️ Software & IDEs
 [![PyCharm](https://img.shields.io/badge/PyCharm-2024.3.1.1-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
