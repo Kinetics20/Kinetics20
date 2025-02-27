@@ -32,7 +32,7 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 
 #### 📄 Documentation Tools
 
-[![Obsidian](https://img.shields.io/badge/Obsidian-1.7.7-483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-1.8.7-483699?logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ---
 
