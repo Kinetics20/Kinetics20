@@ -31,10 +31,13 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 
 
 #### 🛠️ Software & IDEs
-[![PyCharm](https://img.shields.io/badge/PyCharm-2024.3.1.1-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-1.77.3-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-2025.1.1.1-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-1.100.2-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-2025.1-000000?logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-8.0.42-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-1.46.2-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/compass)
+[![Postman](https://img.shields.io/badge/Postman-11.46-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/downloads/)
+
 
 
 #### 📄 Documentation Tools
