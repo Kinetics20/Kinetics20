@@ -22,12 +22,13 @@ I'm a **mid-level Python developer** who is passionate about programming in Pyth
 
 
 #### 🖥️ Operating Systems
-[![Windows 10/11](https://img.shields.io/badge/Windows%2010%20and%2011-10.0_22H2-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Ubuntu LTS](https://img.shields.io/badge/Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2024.1-557C8A?logo=kali&logoColor=white)](https://www.kali.org/)
-[![VMware 17](https://img.shields.io/badge/VMware%2017-17.0-607078?logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![Docker](https://img.shields.io/badge/Docker-24.0.5-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Portainer](https://img.shields.io/badge/Portainer-2.26.1-3498db?logo=portainer&logoColor=white)](https://www.portainer.io/)
+[![Windows 10/11](https://img.shields.io/badge/Windows%2010%20%7C%2011-11_24H2-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Ubuntu LTS](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-Noble_E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2024.2-557C8A?logo=kali&logoColor=white)](https://www.kali.org/)
+[![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-17.5.2-607078?logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![Docker](https://img.shields.io/badge/Docker-28.1.1-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Portainer](https://img.shields.io/badge/Portainer-2.20.3-3498db?logo=portainer&logoColor=white)](https://www.portainer.io/)
+
 
 
 #### 🛠️ Software & IDEs
