@@ -1,6 +1,11 @@
-# 👨‍💻 Hi there!
+## 👨‍💻 About Me
 
-I'm a **mid-level Python developer** who is passionate about programming in Python and continually improving my skills. I enjoy tackling challenges and building solutions using this versatile language.
+I'm a **mid-level Python developer** currently participating in a one-year Data Science and Machine Learning program, with over 7 months of intensive hands-on experience. Throughout the course, I’ve worked extensively with Python and a wide range of libraries from web development and data analysis to testing and security.
+
+I’m passionate about clean, efficient code and enjoy solving real-world problems using Python. Whether it's crafting REST APIs with FastAPI and Flask, visualizing data with Matplotlib and Seaborn, or working with databases like MongoDB and MySQL, I thrive on building practical and scalable solutions.
+
+I regularly use tools like `Pytest`, `Ruff`, `Mypy`, `UV`, and `Pydantic`, and I’m comfortable developing on Linux systems using Docker and virtual environments.
+
 
 ---
 
