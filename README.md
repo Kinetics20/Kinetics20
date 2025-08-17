@@ -31,8 +31,6 @@ I regularly use tools like `Pytest`, `Ruff`, `Mypy`, `UV`, and `Pydantic`, and I
 [![Ubuntu LTS](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-Noble_E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2024.2-557C8A?logo=kali&logoColor=white)](https://www.kali.org/)
 [![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-17.5.2-607078?logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![Docker](https://img.shields.io/badge/Docker-28.1.1-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Portainer](https://img.shields.io/badge/Portainer-2.20.3-3498db?logo=portainer&logoColor=white)](https://www.portainer.io/)
 
 
 
@@ -43,6 +41,8 @@ I regularly use tools like `Pytest`, `Ruff`, `Mypy`, `UV`, and `Pydantic`, and I
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-8.0.42-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-1.46.2-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/compass)
 [![Postman](https://img.shields.io/badge/Postman-11.46-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/downloads/)
+[![Docker](https://img.shields.io/badge/Docker-28.1.1-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Portainer](https://img.shields.io/badge/Portainer-2.20.3-3498db?logo=portainer&logoColor=white)](https://www.portainer.io/)
 
 
 
